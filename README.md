@@ -10,12 +10,11 @@ This repository contains a curated collection of bioinformatics algorithms imple
 | File / Folder | Description |
 |--------------|------------|
 | `freq.py` | Finds the most frequent k-mers in a given DNA string |
-| `Genome_Assembly.py` | Implements basic genome assembly techniques |
-| `GreedyMotifSearch.py` | Greedy Motif Search algorithm for motif discovery |
-| `profile_most_probable_kmer.py` | Identifies the most probable k-mer using a profile matrix |
+| `GenomeAssembly.py` | Implements basic genome assembly techniques |
+| `Greedy&RandomizedSearch.py` | Greedy Motif Search and Randomized MontoCarlo algorithm for motif discovery |
 | `withmismatch.py` | Finds approximate matches allowing mismatches |
 | `MinimumSkew.ipynb` | Jupyter Notebook for GC-skew analysis |
-| `dataset_1.txt`, `dataset_2.txt` | Example datasets |
+| `dataset1.txt`, `dataset2.txt , Ecoli` | Example datasets |
 
 ---
 
