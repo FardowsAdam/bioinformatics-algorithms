@@ -9,7 +9,7 @@ This repository contains a curated collection of bioinformatics algorithms imple
 
 | File / Folder | Description |
 |--------------|------------|
-| `FrequentWord.py` | Finds the most frequent k-mers in a given DNA string |
+| `freq.py` | Finds the most frequent k-mers in a given DNA string |
 | `Genome_Assembly.py` | Implements basic genome assembly techniques |
 | `GreedyMotifSearch.py` | Greedy Motif Search algorithm for motif discovery |
 | `profile_most_probable_kmer.py` | Identifies the most probable k-mer using a profile matrix |
