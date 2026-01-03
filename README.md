@@ -14,7 +14,7 @@ This repository contains a curated collection of bioinformatics algorithms imple
 | `Greedy&RandomizedSearch.py` | Greedy Motif Search and Randomized MontoCarlo algorithm for motif discovery |
 | `withmismatch.py` | Finds approximate matches allowing mismatches |
 | `MinimumSkew.ipynb` | Jupyter Notebook for GC-skew analysis |
-| `dataset1.txt`, `dataset2.txt , Ecoli` | Example datasets |
+| `dataset1.txt`, `dataset2.txt , E_coli.txt` | Example datasets |
 
 ---
 
