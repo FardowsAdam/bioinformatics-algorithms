@@ -14,7 +14,7 @@ This repository contains a curated collection of bioinformatics algorithms imple
 | `GreedyMotifSearch.py` | Greedy Motif Search algorithm for motif discovery |
 | `profile_most_probable_kmer.py` | Identifies the most probable k-mer using a profile matrix |
 | `withmismatch.py` | Finds approximate matches allowing mismatches |
-| `skew.ipynb` | Jupyter Notebook for GC-skew analysis |
+| `MinimumSkew.ipynb` | Jupyter Notebook for GC-skew analysis |
 | `dataset_1.txt`, `dataset_2.txt` | Example datasets |
 
 ---
