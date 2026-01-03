@@ -12,7 +12,6 @@ This repository contains a curated collection of bioinformatics algorithms imple
 | `FrequentWord.py` | Finds the most frequent k-mers in a given DNA string |
 | `Genome_Assembly.py` | Implements basic genome assembly techniques |
 | `GreedyMotifSearch.py` | Greedy Motif Search algorithm for motif discovery |
-| `MonteCarlo.py` | Randomized motif search using Monte Carlo optimization |
 | `profile_most_probable_kmer.py` | Identifies the most probable k-mer using a profile matrix |
 | `withmismatch.py` | Finds approximate matches allowing mismatches |
 | `skew.ipynb` | Jupyter Notebook for GC-skew analysis |
@@ -25,7 +24,6 @@ This repository contains a curated collection of bioinformatics algorithms imple
 - DNA string analysis  
 - Pattern matching with mismatches  
 - Motif discovery algorithms  
-- Monte Carlo randomized search  
 - Genome assembly basics  
 - Probability-based sequence analysis  
 
